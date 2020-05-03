@@ -3,4 +3,4 @@ Use to estimate a point value for batter effectiveness for any given day. The mo
 
 Coded in python.
 
-Download files and view in python code editor of choice.
+Download files and open h2h.py to run main function.
