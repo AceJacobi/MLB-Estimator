@@ -5,5 +5,3 @@ Coded in python.
 
 Download files and open h2h.py to run main function.
 
-
-JavaScript implementation: https://www.goldeyworld.com/baseball/baseball.html
